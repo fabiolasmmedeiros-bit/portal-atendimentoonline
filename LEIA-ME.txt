@@ -1,0 +1,19 @@
+SITE - MOBILIARIO CONTEMPORANEO MONTAGEM DE MOVEIS LTDA
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página Sobre
+- politica-de-privacidade.html: Política de Privacidade
+- termos-de-uso.html: Termos de Uso
+- assets/montagem-de-moveis.jpg: imagem enviada e utilizada no destaque da página inicial
+
+Como publicar:
+1. Envie todos os arquivos e a pasta assets para a pasta pública do seu domínio, mantendo a estrutura.
+2. Abra o domínio para visualizar o index.html.
+3. O site usa Bootstrap 5.3.3 e Bootstrap Icons por CDN; a conexão com a internet é necessária para carregar esses recursos.
+
+IMPORTANTE:
+- Revise e confirme todos os dados de contato, endereço, CNPJ e e-mail antes de publicar.
+- A política de privacidade e os termos são modelos informativos iniciais. Ajuste-os à hospedagem, cookies, ferramentas de métricas, anúncios e práticas reais do negócio. Recomenda-se revisão jurídica.
+- Não há formulário de cadastro nesta versão. O contato ocorre por telefone, e-mail e link para WhatsApp.
+- A inclusão das páginas legais e do conteúdo institucional não garante aprovação no Google Ads. Verifique também a página de destino, a consistência das informações comerciais, o funcionamento do domínio/HTTPS e as políticas atuais do Google Ads.
